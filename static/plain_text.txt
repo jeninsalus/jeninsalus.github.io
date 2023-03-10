@@ -1,0 +1,50 @@
+(Replace "Xinglong Ju" with your own name. Replace the email address with your own email address)
+
+Xinglong Ju's Website
+
+Xinglong Ju
+Student in Management Information Systems
+The University of Oklahoma
+mailto:xinglong.ju@ou.edu
+
+
+https://www.linkedin.com/
+https://twitter.com/
+https://www.instagram.com
+
+Biography
+
+I am a Senior student in Management Information Systems at The University of Oklahoma. I am on the 2022/2023 job market.
+
+My study focuses on data analytics and I am good at programming (Console, Desktop and Web Applications) and databases management.
+
+For more information, please refer to my CV.
+
+
+Interests
+
+Analyst/Programmer
+Business Analyst
+Database Administration
+Web Developer
+Data Scientists
+
+Education
+
+M.S. in Management Information Systems, 2024
+The University of Oklahoma
+
+B.E. in Management Information Systems, 2022
+The University of Oklahoma
+
+
+Recent News
+
+Learning C# Web Application Design
+Learning C# EF
+
+Designed and Published by Xinglog Ju
+
+
+
+
